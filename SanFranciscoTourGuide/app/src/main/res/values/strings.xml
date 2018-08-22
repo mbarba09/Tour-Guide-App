@@ -1,0 +1,143 @@
+<resources>
+
+    <!--General App Strings-->
+    <string name="app_name">San Francisco</string>
+    <string name="fragment_home">Home</string>
+    <string name="fragment_food">Food</string>
+    <string name="fragment_places">Places</string>
+    <string name="fragment_districts">Districts</string>
+
+    <!--list_item.xml-->
+    <string name="list_item_text_view_1">Name Goes Here</string>
+    <string name="list_item_text_view_2">Address Goes Here</string>
+    <string name="list_item_text_view_3">Phone # Goes Here</string>
+
+    <!--fragment_home.xml-->
+    <string name="home_box_1">Food</string>
+    <string name="home_box_2">Places</string>
+    <string name="home_box_3">Districts</string>
+    <string name="home_box_4">TripAdvisor</string>
+
+    <string name="home_section_1_text_view">Interested in more activities?</string>
+    <string name="home_section_2_text_view">Looking for more food?</string>
+
+    <string name="homeFragmentBannerDescription">Banner of the Golden Gate Bridge</string>
+    <string name="HomeFragmentImageOneDescription">Image of the website, NomadicMatt.com. Click here to visit</string>
+    <string name="HomeFragmentImageTwoDescription">Image of SFTravel.com. click here to visit their website.</string>
+    <string name="HomeFragmentImageFourDescription">Image of the Eater.com logo. Click her to visit their website.</string>
+    <string name="HomeFragmentImageThreeDescription">Image of Infatuation.com. Click here to visit their website.</string>
+    <string name="listItemImage">Image placeholder. Each location will populate it\'s own image here</string>
+    <string name="listItemGlobeIcon">Image of a globe. Acts as an indicator for the user to know the item is clickable</string>
+    <string name="castro_location">Castro</string>
+    <string name="castro_url">http://www.sftravel.com/explore/neighborhoods/castro-noe-valley</string>
+    <string name="chinatown_location">Chinatown</string>
+    <string name="civiccenter_location">Civic Center</string>
+    <string name="fishermanswarf_location">Fisherman\'s Warf</string>
+    <string name="haightashbury_location">Haight-Ashbury</string>
+    <string name="sunset_location">Sunset</string>
+    <string name="marina_location">The Marina</string>
+    <string name="northbeach_location">North Beach</string>
+    <string name="soma_location">SoMa</string>
+    <string name="unionsquare_location">Union Square</string>
+    <string name="embarcadero_location">Embarcadero</string>
+    <string name="fillmore_location">Fillmore</string>
+    <string name="mission_location">The Mission</string>
+    <string name="chinatown_url">http://www.sftravel.com/explore/neighborhoods/chinatown</string>
+    <string name="civiccenter_url">http://www.sftravel.com/explore/neighborhoods/civic-center-hayes-valley</string>
+    <string name="fishermanswarf_url">http://www.sftravel.com/explore/neighborhoods/fishermans-wharf</string>
+    <string name="haightashbury_url">http://www.sftravel.com/explore/neighborhoods/haight-ashbury</string>
+    <string name="sunset_url">http://www.sftravel.com/explore/neighborhoods/sunset</string>
+    <string name="marina_url">http://www.sftravel.com/explore/neighborhoods/marina-pacific-heights</string>
+    <string name="northbeach_url">http://www.sftravel.com/explore/neighborhoods/north-beach</string>
+    <string name="soma_url">http://www.sftravel.com/explore/neighborhoods/soma-yerba-buena</string>
+    <string name="unionsquare_url">http://www.sftravel.com/explore/neighborhoods/union-square</string>
+    <string name="embarcadero_url">http://www.sftravel.com/explore/neighborhoods/embarcadero-financial-district</string>
+    <string name="fillmore_url">http://www.sftravel.com/explore/neighborhoods/fillmore</string>
+    <string name="mission_url">http://www.sftravel.com/explore/neighborhoods/mission-district</string>
+    <string name="home_url_1">https://www.nomadicmatt.com/travel-blogs/spend-three-days-touring-san-francisco/</string>
+    <string name="home_url_2">http://www.sftravel.com/</string>
+    <string name="home_url_3">https://www.theinfatuation.com/san-francisco/guides/the-first-timers-guide-to-eating-in-san-francisco-essential-must-visit-restaurants</string>
+    <string name="home_url_4">https://sf.eater.com/2018/1/23/16076108/best-food-san-francisco-restaurants-where-to-eat</string>
+    <string name="home_url_5"><![CDATA[https://www.google.com/search?q=san+francisco+food&source=lnms&sa=X&ved=0ahUKEwj1jajFzYfcAhXR-lQKHZSYBL4Q_AUICSgA&biw=1274&bih=722&dpr=1]]></string>
+    <string name="home_url_6"><![CDATA[https://www.google.com/search?biw=1274&bih=722&ei=o989W62HAovc8AO1rL6QAw&q=san+francisco+places+to+visit&oq=san+francisco+places+to+visit&gs_l=psy-ab.3..0l5j0i22i30k1l5.2882.3909.0.4056.9.9.0.0.0.0.176.741.1j5.6.0..3..0…1.1.64.psy-ab..3.6.733...0i67k1.0.QzK4LNbbGxY]]></string>
+    <string name="home_url_7"><![CDATA[https://www.google.com/search?biw=1274&bih=722&ei=qd89W_j8H4XR8AONzonQDw&q=san+francisco+districts&oq=san+francisco+dist&gs_l=psy-ab.3.0.35i39k1l2j0l8.83705.85827.0.86759.14.14.0.0.0.0.207.1385.8j4j1.13.0..3..0…1.1.64.psy-ab..1.13.1373...0i20i263k1j0i131k1j0i131i20i264k1j0i67k1j0i20i264k1.0.ORcFIJfOfbc]]></string>
+    <string name="home_url_8">https://www.tripadvisor.com/Attractions-g60713-Activities-San_Francisco_California.html</string>
+    <string name="alcatraz_location">Alcatraz Island</string>
+    <string name="alcatraz_address">San Francisco, CA 94133</string>
+    <string name="alcatraz_phonenumber">(415) 561–4900</string>
+    <string name="alcatraz_url">http://www.alcatraz.us/</string>
+    <string name="goldengate_location">Golden Gate Bridge</string>
+    <string name="goldengate_address">Golden Gate Bridge, San Francisco, CA</string>
+    <string name="goldengate_phonenumber">(415) 921–5858</string>
+    <string name="goldengate_url">www.goldengatebridge.org/</string>
+    <string name="fishermans_location">Fisherman\'s Wharf</string>
+    <string name="fishermans_address">Fisherman\'s Wharf, San Francisco, CA</string>
+    <string name="fishermans_phonenumber">(415) 674–7503.</string>
+    <string name="fishermans_url">www.fishermanswharf.org/</string>
+    <string name="goldenGatePark_location">Golden Gate Park</string>
+    <string name="goldenGatePark_address">Golden Gate Park, San Francisco, CA</string>
+    <string name="goldenGatePark_phonenumber">(415) 831–2700</string>
+    <string name="goldenGatePark_url">https://goldengatepark.com/</string>
+    <string name="pier39_location">Pier 39</string>
+    <string name="pier39_address"><![CDATA[Beach St & The Embarcadero, San Francisco, CA 94133]]></string>
+    <string name="pier39_phonenumber">(415) 705–5500</string>
+    <string name="pier39_url">https://www.pier39.com/</string>
+    <string name="unionsquare_address">333 Post St, San Francisco, CA 94108</string>
+    <string name="unionsquare_phonenumber">(415) 781–7880</string>
+    <string name="cable_car_location">SF Cable Car</string>
+    <string name="cable_car_address">Powell St, San Francisco, CA 94102</string>
+    <string name="cable_car_phonenumber">(415) 701–2311</string>
+    <string name="cable_car_url">https://www.sfcablecar.com/</string>
+    <string name="presidio_location">Presidio</string>
+    <string name="presidio_address">Presidio, San Francisco, CA</string>
+    <string name="not_available" />
+    <string name="chinatown_address">Chinatown, San Francisco, CA</string>
+    <string name="muirwoods_location">Muir Woods</string>
+    <string name="muirwoods_address">1 Muir Woods Rd, Mill Valley, CA 94941</string>
+    <string name="muirwoods_phonenumber">(415) 561–2850</string>
+    <string name="muirwoods_url">https://gomuirwoods.com/</string>
+    <string name="fogharbor_location">Fog Harbor Fish House</string>
+    <string name="fogharbor_address">Pier 39, San Francisco, CA 94133</string>
+    <string name="fogharbor_phonenumber">(415) 421–2442</string>
+    <string name="fogharbor_url">https://fogharbor.com/</string>
+    <string name="hogisland_location">Hog Island Oyster Co</string>
+    <string name="hogisland_address">1 Ferry Bldg San Francisco, CA 94111</string>
+    <string name="hogisland_phonenumber">(415) 391–7117</string>
+    <string name="hogisland_url">https://hogislandoysters.com/</string>
+    <string name="thehouse_location">The House</string>
+    <string name="thehouse_address">1230 Grant Ave, San Francisco, CA 94133</string>
+    <string name="thehouse_phonenumber">(415) 986–8612</string>
+    <string name="thehouse_url">www.thehse.com/</string>
+    <string name="hollow_location">Hollow</string>
+    <string name="hollow_address">1435 Irving St, San Francisco, CA 94122</string>
+    <string name="hollow_phonenumber">(415) 242–4119</string>
+    <string name="hollow_url">https://www.yelp.com/biz/hollow-san-francisco?osq=Cafes</string>
+    <string name="garydanko_location">Gary Danko</string>
+    <string name="garydanko_address">800 N Point St, San Francisco, CA 94109</string>
+    <string name="garydanko_phonenumber">(415) 749–2060</string>
+    <string name="garydanko_url">garydanko.com/</string>
+    <string name="home_location">Home</string>
+    <string name="home_address">1222 Noriega St, San Francisco, CA 94122</string>
+    <string name="home_phonenumber">(415) 742–0038</string>
+    <string name="home_url">https://www.yelp.com/biz/home-san-francisco-30</string>
+    <string name="marlowe_location">Marlowe</string>
+    <string name="marlowe_address">500 Brannan St, San Francisco, CA 94107</string>
+    <string name="marlowe_phonenumber">(415) 777–1413</string>
+    <string name="marlowe_url">https://marlowesf.com/</string>
+    <string name="sightglass_location">Sightglass Coffee</string>
+    <string name="sightglass_address">270 Seventh St, San Francisco, CA 94103</string>
+    <string name="sightglass_phonenumber">(415) 861–1313</string>
+    <string name="sightglass_url">https://sightglasscoffee.com/</string>
+    <string name="brendas_location">Brenda’s French Soul Food</string>
+    <string name="brendas_address">652 Polk St, San Francisco, CA 94102</string>
+    <string name="brendas_phonenumber">(415) 345–8100</string>
+    <string name="brendas_url">frenchsoulfood.com/</string>
+    <string name="liholiho_location">Liholiho Yacht Club</string>
+    <string name="liholiho_address">871 Sutter St, San Francisco, CA 94109</string>
+    <string name="liholiho_phonenumber">(415) 440–5446</string>
+    <string name="liholiho_url">http://liholihoyachtclub.com/</string>
+    <string name="scomas_location">Scoma’s Restaurant</string>
+    <string name="scomas_address">1965 Al Scoma Way, San Francisco, CA 94133</string>
+    <string name="scomas_phonenumber">(415) 771–4383</string>
+    <string name="scomas_url">https://scomas.com/</string>
+</resources>

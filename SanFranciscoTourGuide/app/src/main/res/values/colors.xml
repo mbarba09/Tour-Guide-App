@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546e7a</color>
+    <color name="colorPrimaryDark">#29434e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="food">#03a9f4</color>
+    <color name="place">#9ccc65</color>
+    <color name="district">#ffd54f</color>
+    <color name="imageBackgroundListItem">#eceff1</color>
+    <color name="listItemTextColor">#FFFFFF</color>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:contentDescription="@string/listItemImage"
+        android:id="@+id/image"
+        style="@style/listItemImage"
+        android:src="@mipmap/ic_launcher" />
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="fill_parent"
+        android:layout_height="88dp"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/place_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/list_item_text_view_1"
+                android:textColor="@color/listItemTextColor"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/place_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingEnd="@dimen/listItemAddressPaddingRight"
+                android:paddingRight="@dimen/listItemAddressPaddingRight"
+                android:text="@string/list_item_text_view_2"
+                android:textColor="@color/listItemTextColor" />
+
+            <TextView
+                android:id="@+id/place_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/list_item_text_view_3"
+                android:textColor="@color/listItemTextColor" />
+        </LinearLayout>
+
+        <ImageView
+            android:contentDescription="@string/listItemGlobeIcon"
+            android:layout_width="@dimen/iconDimenWidth"
+            android:layout_height="@dimen/iconDimenHeight"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/globe" />
+
+    </RelativeLayout>
+
+</LinearLayout>

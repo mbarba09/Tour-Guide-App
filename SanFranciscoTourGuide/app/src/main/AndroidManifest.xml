@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.matthewbarba.sanfranciscotourguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <!--The App was crashing. Returning an error stating no
+        activity could be found to handle the intent (to open webpages).
+        If the user would open more than one web page, the second webpage would always crash the app.
+        the resource below fixed this problem:
+        https://stackoverflow.com/questions/9157490/android-no-activity-found-to-handle-intent-error-how-it-will-resolve-->
+        <activity android:name=".MainActivity" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.scytec.datamobile.vd.gui.android.AppPreferenceActivity" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

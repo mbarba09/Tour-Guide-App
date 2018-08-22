@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_banner_height">100dp</dimen>
+    <dimen name="listItemAddressPaddingRight">16dp</dimen>
+    <dimen name="iconDimenWidth">24dp</dimen>
+    <dimen name="iconDimenHeight">24dp</dimen>
+</resources>
